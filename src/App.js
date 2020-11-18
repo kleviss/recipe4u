@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, {useState, useEffect} from "react";
 import Recipe from './Recipe.js';
 import './App.css';
