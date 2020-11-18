@@ -1,0 +1,44 @@
+.App {
+    min-height: 100vh;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+  }
+  
+  .search-form {
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .search-button {
+    background: lightcoral;
+    border: none;
+    padding: 12px 22px;
+    color: whitesmoke;
+  }
+  
+  .search-bar{
+    padding: 10px 20px;
+  }
+  
+  .recipes {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .theme{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 10px;
+    width: 10px;
+  }
+  .themeDiv{
+    
+    justify-content: center;
+    align-items: center;
+    height: 10px;
+    width: 10px;
+  }
